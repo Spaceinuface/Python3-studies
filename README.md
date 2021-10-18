@@ -7,15 +7,23 @@ However when I've reached a conclution on a project please inform me on how my c
 
 If anyone wants to come in contact with me I have discord and an email of course but its ill managed and your mail might be lost in the avalanche of advertisment, penisbills and broods wanting to suck me of if I just click this one link.
 
-GET IN TOUCH!
+
+
+GET IN TOUCH:
+
 Space#0402                                                           
 https://discordapp.com/users/103896506515345408
-my discord server  *                                                  
+
+MY DISCORD SERVER  *                                                  
 http://discord.suited.nu
-email                                                                 
+
+Email                                                                
 kristofer.lindvall@gmail.com
-signal                                                                
+
+SIGNAL                                                              
 http://suited.nu/space/signal_qr.png               
+
+
 
 
 
