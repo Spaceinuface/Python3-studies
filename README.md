@@ -1,5 +1,6 @@
 # Python3-studies
 
+
 YEAH IM LEARNING PYTHON HOPEFULLY THEREFOR PLEASE DO NOT USE MY CODE IT MIGHT CAUSE HARM TO YOUR SHIT AND SOMEONE YOU LOVE.
 
 Any feedback is extremly welcome and appreciated but please refrain from helping me to much when I'm working on a learning project.
@@ -19,6 +20,7 @@ http://discord.suited.nu
 
 Email                                                                
 kristofer.lindvall@gmail.com
+Space(A)suited(DOT)nu <- Not a lost cause jet and I intend to keep it that way. I sadly check it way to rarely.
 
 SIGNAL                                                              
 http://suited.nu/space/signal_qr.png               
