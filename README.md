@@ -1,41 +1,20 @@
 # Python3-studies
 
+Hi there!
 
-YEAH IM LEARNING PYTHON HOPEFULLY THEREFOR PLEASE DO NOT USE MY CODE IT MIGHT CAUSE HARM TO YOUR SHIT AND SOMEONE YOU LOVE.
+I will upload all my learning projects here first off Ill try a course of 12 beginners project i found on youtube. https://www.youtube.com/watch?v=8ext9G7xspg
+Im going to skip the madlibs project tho, not my cup of tea.
+Feedback is much appriciated but I'd like to do it my own silly way first and when I'm done please tell me how it could be better, faster, less code yeah anything.
 
-Any feedback is extremly welcome and appreciated but please refrain from helping me to much when I'm working on a learning project.
-However when I've reached a conclution on a project please inform me on how my code can be better and stuff that I should concider for future projects.
-
-If anyone wants to come in contact with me I have discord and an email of course but its ill managed and your mail might be lost in the avalanche of advertisment, penisbills and broods wanting to suck me of if I just click this one link.
-
-
-
-GET IN TOUCH:
-
-Space#0402                                                           
-https://discordapp.com/users/103896506515345408
-
-MY DISCORD SERVER  *                                                  
-http://discord.suited.nu
-
-Email                                                                
-kristofer.lindvall@gmail.com
-Space(A)suited(DOT)nu <- Not a lost cause jet and I intend to keep it that way. I sadly check it way to rarely.
-
-SIGNAL                                                              
-http://suited.nu/space/signal_qr.png               
-
-
-
-
-
-* Passion project where the aim is to give free homepages to local buissnesses in need and have giveaways from gaming organisations that needs an homepage
-I have also added categorys for those interested in programming where I will code live on stream and hopefully discuss procjets with other beginners and real sk00l of r00t coders
-
-
-
-
-
-Space
-Out
-Peace!
+⭐️ Course Contents ⭐️
+⌨️ (6:54) 2. Guess the Number (computer) 
+⌨️ (13:17) 3. Guess the Number (user)
+⌨️ (21:14) 4. Rock Paper Scissors
+⌨️ (24:25) 5. Hangman
+⌨️ (35:53) 6. Tic-Tac-Toe
+⌨️ (59:59) 7. Tic-Tac-Toe AI
+⌨️ (1:15:53) 8. Binary Search 
+⌨️ (1:27:16) 9. Minesweeper 
+⌨️ (1:51:55) 10. Sudoku Solver 
+⌨️ (2:05:34) 11. Photo Manipulation in Python 
+⌨️ (2:31:49) 12. Markov Chain Text Composer 
