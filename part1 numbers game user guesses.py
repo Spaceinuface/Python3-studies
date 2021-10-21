@@ -1,3 +1,5 @@
+# THIS IS PART 2 SINCE I SKIPPED BADLIBS!
+
 from random import randint
 import sys
  
